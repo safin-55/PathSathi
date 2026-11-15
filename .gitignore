@@ -30,3 +30,6 @@ yarn-error.*
 # local env
 .env
 .env.local
+
+# editor
+.vscode/
